@@ -1,5 +1,5 @@
 # Neurocomputational-Models-of-Vision
-Neurocomputational Models of Vision Course (MI210)
+Neurocomputational Models of Vision Course
 
 ## 📋 Description
 TDs and Exam code implemented during the course.
